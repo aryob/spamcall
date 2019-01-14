@@ -1,0 +1,2 @@
+# spamcall
+telkomsel only
